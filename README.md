@@ -30,8 +30,10 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhyuday19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
