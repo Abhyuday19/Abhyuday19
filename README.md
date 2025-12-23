@@ -37,7 +37,6 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=database&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
@@ -48,7 +47,6 @@
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=keras&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
 ![Gradio](https://img.shields.io/badge/Gradio-3C79E6?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
